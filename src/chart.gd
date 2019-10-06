@@ -1,5 +1,5 @@
 extends Control
-# русский комментарий
+# русский расширенный комментарий
 
 enum LABELS_TO_SHOW {
   NO_LABEL = 0,
