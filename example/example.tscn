@@ -7,7 +7,6 @@
 
 [sub_resource type="ButtonGroup" id=1]
 
-
 [node name="main" type="Control"]
 margin_right = 40.0
 margin_bottom = 40.0
